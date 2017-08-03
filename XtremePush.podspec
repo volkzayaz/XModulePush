@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.source = { :path => '.' }
 
   s.ios.deployment_target    = '7.0'
-  s.ios.vendored_framework   = 'ios/XtremePush.framework'
+  s.ios.vendored_framework   = 'XtremePush.framework'
 end

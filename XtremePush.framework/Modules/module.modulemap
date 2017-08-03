@@ -1,0 +1,5 @@
+framework module XtremePush {
+  umbrella header "DaTest.h"
+  export *
+  module * { export *}
+}
