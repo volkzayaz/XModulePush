@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "XtremePush"
-  s.version = "0.1.0"
+  s.version = "0.1.2"
   s.summary = "Hello, this is a test"
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"volkzayaz"=>"volkzayaz@gmail.com"}
